@@ -42,7 +42,7 @@ Set of helpful scripts to interact with the HIVE blockchain (https://hive.io/)
 
 ```Objective: To get post searchs for user defined tag in user defined date range through the hive.blog condenser API.```
 
-```Return value: print out a pandas DataFrame and return an user-defined array in descending pending_value_hbd order.```
+```Return value: print out a pandas DataFrame and return an user-defined array in descending order of pending_value_hbd.```
 
 CMD print result:
 
