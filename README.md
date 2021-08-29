@@ -1,5 +1,18 @@
 # hive_blockchain_scripts
-Set of helpful scripts to interact with the HIVE blockchain (https://hive.io/)
+Set of helpful scripts made to interact with the HIVE blockchain.
+
+## Python modules and libraries used
+```
+pandas - for data manipulation
+requests - for online data retrieval and API calls
+datetime - for date formatting and convertion
+beem - for HIVE blockchain interaction
+```
+
+## What is HIVE?
+Hive is an innovative and forward-looking decentralized blockchain and ecosystem, designed to scale with widespread adoption of the currency and platforms in mind. By combining the lightning-fast processing times and fee-less transactions, Hive is positioned to become one of the leading Web3 blockchains used by people around the world.
+
+ (https://hive.io/)
 
 ---
 
@@ -54,4 +67,4 @@ CMD print result:
 
 ```Objective: To submit vote operation to HIVE blockchain when the voter VP & RC are in good condition.```
 
-```Return value: None. Action submit to the HIVE blockchain.```
+```Return value: None. Action submitted to the HIVE blockchain.```
